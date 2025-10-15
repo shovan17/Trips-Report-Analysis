@@ -1,1 +1,1 @@
-ALL projects of Power BI
+ Power BI project for analysing trips
